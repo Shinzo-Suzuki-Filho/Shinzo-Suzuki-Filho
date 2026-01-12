@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Olá, eu sou Shinzo Suzuki
 
-<!--
-**Shinzo-Suzuki-Filho/Shinzo-Suzuki-Filho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Full Stack Júnior**, com foco no desenvolvimento de aplicações web completas, atuando no **front-end e back-end**.
 
-Here are some ideas to get you started:
+Atualmente participo de um **edital público do Estado de Alagoas**, no qual estou desenvolvendo um **aplicativo voltado à oferta de melhorias essenciais para moradores e turistas**, com prazo de execução de 1 ano. Neste projeto, atuo desde o levantamento de requisitos, definição de arquitetura, desenvolvimento da solução, integração com banco de dados e criação de **APIs REST**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho experiência prática com:
+- JavaScript
+- Python
+- HTML5 e CSS3
+- Desenvolvimento de APIs REST
+- Integração de sistemas
+- Versionamento com Git e GitHub
+- Noções de Docker
+
+Sou uma pessoa organizada, com perfil analítico e focada em aprendizado contínuo. Estou sempre em busca de evoluir tecnicamente e construir soluções bem estruturadas.
+
+📫 **Contato:**  
+contatodevdragon@gmail.com
+
