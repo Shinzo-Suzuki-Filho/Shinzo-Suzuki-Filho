@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Shinzo Suzuki
+## 👋 Olá, eu sou Shinzo Suzuki Filho
 
 Sou **Desenvolvedor Full Stack Júnior**, com foco no desenvolvimento de aplicações web completas, atuando no **front-end e back-end**.
 
