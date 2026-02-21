@@ -12,6 +12,11 @@ Tenho experiência prática com:
 - Integração de sistemas
 - Versionamento com Git e GitHub
 - Noções de Docker
+- Node
+- N8N Automação
+- React
+- Vue
+- Mobile App **Android e iOS
 
 Sou uma pessoa organizada, com perfil analítico e focada em aprendizado contínuo. Estou sempre em busca de evoluir tecnicamente e construir soluções bem estruturadas.
 
